@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shaw Style 九风格照片转译"
+  short_description: "将人物、风景和产品照片转为九种艺术风格，保留辨识度与原始姿态并统一画面主次"
+  default_prompt: "使用 $shaw-style，把我上传的原照片转成指定风格，保留主体辨识度与姿态，并检查全画面风格和主次关系。"
